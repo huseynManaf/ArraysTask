@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.exe
+C:\Users\User\source\repos\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.deps.json
+C:\Users\User\source\repos\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.runtimeconfig.json
+C:\Users\User\source\repos\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.dll
+C:\Users\User\source\repos\ArraysTask\ArraysTask\bin\Debug\net6.0\ArraysTask.pdb
+C:\Users\User\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.AssemblyInfo.cs
+C:\Users\User\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.dll
+C:\Users\User\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\refint\ArraysTask.dll
+C:\Users\User\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.pdb
+C:\Users\User\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ArraysTask.genruntimeconfig.cache
+C:\Users\User\source\repos\ArraysTask\ArraysTask\obj\Debug\net6.0\ref\ArraysTask.dll
